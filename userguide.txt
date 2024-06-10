@@ -1,0 +1,104 @@
+# Task Management System - User Guide
+
+This guide provides instructions for users on how to register, log in, and manage tasks in the Task Management System application.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Registration](#registration)
+- [Logging In](#logging-in)
+- [Dashboard Overview](#dashboard-overview)
+- [Managing Tasks](#managing-tasks)
+  - [Adding a New Task](#adding-a-new-task)
+  - [Editing a Task](#editing-a-task)
+  - [Deleting a Task](#deleting-a-task)
+  - [Updating Task Status](#updating-task-status)
+- [Error Handling](#error-handling)
+
+## Getting Started
+
+To begin using the Task Management System, open the application in your web browser.
+
+## Registration
+
+1. **Open the Registration Page:**
+   Navigate to the registration page by clicking on the "Sign Up" button if you are not already on the registration page.
+
+2. **Enter Your Details:**
+   Fill in the required fields:
+   - **First Name:** Enter your first name.
+   - **Last Name:** Enter your last name.
+   - **Email:** Enter a valid email address.
+   - **Password:** Enter a password that is at least 8 characters long.
+
+3. **Submit the Form:**
+   Click the "Sign Up" button to submit the registration form. If all details are correct, you will be registered successfully and redirected to the login page.
+
+## Logging In
+
+1. **Open the Login Page:**
+   Navigate to the login page by clicking on the "Sign In" button.
+
+2. **Enter Your Credentials:**
+   Fill in your registered email and password.
+
+3. **Submit the Form:**
+   Click the "Sign In" button to log in. If your credentials are correct, you will be redirected to the dashboard.
+
+## Dashboard Overview
+
+After logging in, you will be taken to the dashboard, where you can view and manage your tasks.
+
+- **Task List:** A list of your tasks will be displayed, showing the task name, description, and status.
+- **Add New Task:** A button at the top right corner allows you to add new tasks.
+
+## Managing Tasks
+
+### Adding a New Task
+
+1. **Open Add Task Modal:**
+   Click the "Add new" button located at the top right corner of the dashboard.
+
+2. **Enter Task Details:**
+   Fill in the task details in the modal:
+   - **Task Name:** Enter the name of the task.
+   - **Description:** Enter a brief description of the task.
+   - **Status:** Select the status of the task (In Progress or Complete).
+
+3. **Save the Task:**
+   Click the "Save" button to add the task to your list.
+
+### Editing a Task
+
+1. **Open Edit Task Modal:**
+   Click the "Edit" button next to the task you want to edit.
+
+2. **Update Task Details:**
+   Modify the task details in the modal.
+
+3. **Save Changes:**
+   Click the "Save" button to update the task details.
+
+### Deleting a Task
+
+1. **Open Delete Task Modal:**
+   Click the "Delete" button next to the task you want to delete.
+
+2. **Confirm Deletion:**
+   Confirm the deletion in the modal. The task will be removed from your list.
+
+### Updating Task Status
+
+1. **Change Status:**
+   Select the new status (In Progress or Complete) from the dropdown next to the task.
+
+2. **Confirm Update:**
+   Confirm the status update when prompted. The task status will be updated.
+
+## Error Handling
+
+If there are any errors (e.g., invalid email, password too short), an error message will be displayed. Ensure that you provide the correct information as prompted by the error messages.
+
+For further assistance, you can contact support or refer to the application's help section.
+
+Happy task managing!
